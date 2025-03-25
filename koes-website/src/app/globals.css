@@ -1,0 +1,11 @@
+/* src/app/globals.css */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+body {
+  background-color: #ffffff;
+}
+
+:root {
+  --primary: #ffffff;  /* Deep blue */
+  --secondary: #ffffff;  /* Even darker blue */
+  --dark: #ffffff;  /* Almost black, very dark blue */
+}
